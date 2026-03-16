@@ -1,0 +1,4 @@
+.env         #auth env file
+__pycache__/ #cache
+*.pyc        #cache
+.DS_Store    #cache
