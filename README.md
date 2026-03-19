@@ -7,6 +7,8 @@ This project ingests data using Finnhub's websocket API and processes it through
 
 ## Architecture
 
+![Architecture](docs/architecture.png)
+
 ---
 
 ## Stack
