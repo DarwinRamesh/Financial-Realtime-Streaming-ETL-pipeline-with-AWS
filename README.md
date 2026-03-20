@@ -1,5 +1,5 @@
 # kafka-aws-streaming-pipeline
-A realtime streaming ETL pipeline built with Kafka and AWS using the finnhub API, containerized with docker.
+A realtime streaming Zero-ETL pipeline built with Kafka and AWS using the finnhub API, containerized with docker.
 
 This project ingests data using Finnhub's websocket API and processes it through  a medallion structure data lakehouse. Final queryable data sits within AWS S3.
 
